@@ -6,8 +6,9 @@ let text = `*SYARAT & KETENTUAN*
 📮 S&K
 1. Jangan diperjual belikan Script ini
 2. Jangan salah gunakan script ini!
-3. Jangan di per jual belikan
-• Jika ada eror di sc hub https://wa.me/6282214729677
+3. Jangan lupa Follow Instagram
+4. Jangan di per jual belikan
+• Jika ada eror di sc hub https://wa.me/6285237596750
 
 --------Thanks to ✨---------
 Allah SWT
@@ -17,9 +18,10 @@ All Contributors
 All Creator Bot
 Adiwajshing
 Nurutomo
+Yt Maxxy Botz 
 BochilGaming`
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'Script di sini', url: 'https://wa.me/6282214729677'}},
+    {index: 1, urlButton: {displayText: 'Script di sini', url: 'https://wa.me/6285237596750'}},
 ]
 let tm = {
 text: text,
